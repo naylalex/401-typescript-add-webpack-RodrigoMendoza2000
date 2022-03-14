@@ -1,6 +1,6 @@
 import add from './add';
 // LAB: Importar subtraction
-
+import substaction from './subtraction'
 
 let result = add(4, 5);
 let output = document.querySelector('#output');
